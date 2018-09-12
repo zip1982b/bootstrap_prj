@@ -18,3 +18,8 @@
 .navbar-toggler{
   background:#fff !important;
 }
+
+.container {
+	background: blue;
+
+}
