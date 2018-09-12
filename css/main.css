@@ -23,3 +23,23 @@
 	background: blue;
 
 }
+
+.col-3 {
+	background: green;
+
+}
+
+.col-5 {
+	background: red;
+
+}
+
+.col-2 {
+	background: gray;
+
+}
+
+.col-1 {
+	background: yellow;
+
+}
