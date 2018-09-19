@@ -24,6 +24,16 @@
 
 }
 
+.row {
+	background: #e3de4d;
+	height: 300px;
+}
+
+.row div{
+	text-align: center;
+	height: 50px;
+}
+
 .col-3 {
 	background: green;
 
